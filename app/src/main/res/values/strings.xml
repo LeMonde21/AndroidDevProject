@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DroidBurger</string>
+    <string name="placeholder_text">Burgers, made by Androids!</string>
+    <string name="image_description">Placeholder Image</string>
+    <string name="burger_list" />
+    <string name="restaurant_name">DroidBurger</string>
+    <string name="order_success">Commande passée avec succès !</string>
+    <string name="order_recap">Récapitulatif de votre commande :</string>
+    <string name="previous_orders">Commandes précédentes :</string>
+    <string-array name="burger_list">
+        <item>Burger du chef</item>
+        <item>Cheese Burger</item>
+        <item>Burger Montagnard</item>
+        <item>Burger Italien</item>
+        <item>Burger Végétarien</item>
+    </string-array>
+
+</resources>
